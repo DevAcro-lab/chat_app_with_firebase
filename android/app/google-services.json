@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965512512867",
+    "project_id": "chat-app-a9cab",
+    "storage_bucket": "chat-app-a9cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965512512867:android:9d9a2edbe9002b84ccbf56",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYJfbZMXaZaevc2uC-UFlVzaIXVDOdxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
